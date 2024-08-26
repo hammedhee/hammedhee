@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hammedhee
+- 👋 Hi, I’m muhammed nk
 - 👀 I’m interested in ...flutter
 - 🌱 I’m currently learning ...dart
 - 💞️ I’m looking to collaborate on ...
