@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Nk</h1>
 <h3 align="center">Passionate About Building Innovative Mobile Applications</h3>
-
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammedhee&label=Profile%20views&color=0e75b6&style=flat" alt="hammedhee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammedhee" alt="hammedhee" /></a> </p>
