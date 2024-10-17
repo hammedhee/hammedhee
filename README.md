@@ -1,9 +1,7 @@
+<img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"/>
 <h1 align="center">Hi 👋, I'm Muhammed Nk</h1>
 <h3 align="center">Passionate About Building Innovative Mobile Applications</h3>
-
-<!-- Flutter Developer Banner -->
-<img src="https://t4.ftcdn.net/jpg/09/31/35/39/240_F_931353905_3pKcB1hnidhobKFNF4ygbYhMVzIVVDJi.jpg" alt="Flutter Developer Banner" width="95%" height="300px"/>
-
+\
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/cybersecurity-analyst-network-engineer-tech-flat-minimal-image_1179667-1899.jpg?size=626&ext=jpg&uid=R152663833&ga=GA1.1.1974195554.1720069836&semt=ais_hybrid">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammedhee&label=Profile%20views&color=0e75b6&style=flat" alt="hammedhee" /> </p>
