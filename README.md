@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Nk</h1>
 <h3 align="center">Passionate About Building Innovative Mobile Applications</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/cybersecurity-analyst-network-engineer-tech-flat-minimal-image_1179667-1899.jpg?size=626&ext=jpg&uid=R152663833&ga=GA1.1.1974195554.1720069836&semt=ais_hybrid">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sameer-patel-dev/sameer-patel-dev/main/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammedhee&label=Profile%20views&color=0e75b6&style=flat" alt="hammedhee" /> </p>
 
